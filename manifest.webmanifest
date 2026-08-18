@@ -1,0 +1,8 @@
+{
+  "name": "NAZARYA \u2014 Wear Your Identity",
+  "short_name": "NAZARYA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080808",
+  "theme_color": "#c9a75b"
+}
